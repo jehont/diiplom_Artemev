@@ -10,11 +10,11 @@
 
 ![sql](https://files.catbox.moe/qyeehj.png)
 
-Зайти в папку frontend, запустить фронтэндовую часть сайта командой npm run serve
+Зайти в папку frontend, прописать команду npm install и запустить фронтэндовую часть сайта командой npm run serve
 
 ![frontend](https://files.catbox.moe/n1jhwd.jpg)
 
-В отдельном окне зайти в папку backend, запустить бэкэнд командой npm start
+В отдельном окне зайти в папку backend,прописать команду npm install запустить бэкэнд командой npm start
 
 ![backend](https://files.catbox.moe/o4t1pz.png)
 
